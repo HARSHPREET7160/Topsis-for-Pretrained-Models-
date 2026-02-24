@@ -127,11 +127,7 @@ Higher score = Better model.
 
 ## 📋 Result Table
 
-| Model | ROUGE-1 | ROUGE-2 | ROUGE-L | AvgTimeSec | Params(M) | TOPSIS Score | Rank |
-|-------|---------|---------|---------|------------|------------|--------------|------|
-| Model A | ... | ... | ... | ... | ... | ... | ... |
-
-(*Actual values will be filled from generated CSV file*)
+<img width="1227" height="227" alt="image" src="https://github.com/user-attachments/assets/7b59ec66-d0cb-4b86-8d94-faf04496b69a" />
 
 The final ranking is based on the TOPSIS score.
 
