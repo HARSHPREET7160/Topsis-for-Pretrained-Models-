@@ -146,10 +146,9 @@ The final ranking is based on the TOPSIS score.
 - This graph makes it visually easy to compare model performance.
 
 Saved as:
-```
-<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/bbd6b639-b2d2-48e1-894a-599dac2e6de3" />
 
-```
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/d27ada70-09b1-4411-ba4d-f5a525654704" />
+
 
 ---
 
@@ -165,9 +164,9 @@ This helps visualize:
 - Trade-offs between models.
 
 Saved as:
-```
-rouge_metrics_line.png
-```
+
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/0933c848-66ee-4dd3-a15f-ccb4ec9368d1" />
+
 
 ---
 
