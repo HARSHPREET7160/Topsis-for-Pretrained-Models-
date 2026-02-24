@@ -147,7 +147,8 @@ The final ranking is based on the TOPSIS score.
 
 Saved as:
 ```
-topsis_scores_bar.png
+<img width="2400" height="1500" alt="image" src="https://github.com/user-attachments/assets/bbd6b639-b2d2-48e1-894a-599dac2e6de3" />
+
 ```
 
 ---
